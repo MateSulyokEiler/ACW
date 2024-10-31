@@ -15,4 +15,4 @@ The folder contains the plugin file (acw.py and its module folder); a configurat
 Information about using the wizard can be found in the UserGuide.pdf.
 
 ## Reference:
-Please cite our work: Unravelling the Complexity of Amyloid Peptide Core Interfaces.
+Please cite our work: [Unravelling the Complexity of Amyloid Peptide Core Interfaces](https://pubs.acs.org/doi/10.1021/acs.jcim.4c01479).
